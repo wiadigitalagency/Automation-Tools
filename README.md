@@ -26,7 +26,7 @@ We are **WIA Digital**, a creative agency that helps businesses grow with techno
 - [Task Manager App](https://github.com/your-username/task-manager) – To-do app with cross-platform support  
 
 ### Automation Tools
-- [Instagram Bot](https://github.com/your-username/instagram-bot) – Automates likes, follows, and scheduling  
+- [**Zenith Downloader**](https://github.com/wiadigitalagency/Zenith-Downloader) – A futuristic desktop YouTube downloader with cyberpunk GUI and advanced features.  
 - [Web Scraper](https://github.com/your-username/web-scraper) – Extracts data into CSV/Excel  
 - [Bulk File Organizer](https://github.com/your-username/file-organizer) – Sorts and renames files automatically  
 
