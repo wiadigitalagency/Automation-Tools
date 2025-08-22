@@ -1,34 +1,47 @@
-# Automation & Tools
+# WIA Digital – Portfolio
 
-A collection of custom automation scripts and utilities built by **WIA Digital** to save time, reduce manual work, and boost productivity.
+We are **WIA Digital**, a creative agency that helps businesses grow with technology, design, and automation.  
 
-## 🔧 Features
-- Automate repetitive online tasks  
-- Extract and organize data (scraping / APIs)  
-- Multi-platform support (Windows, Mac, Linux)  
-- Easy-to-use scripts with minimal setup  
+**Our Motto:** *We rise together, so does your brand.*  
 
-## 📂 Included Tools
-1. [**Instagram Automation Bot**](https://github.com/your-username/instagram-bot)  
-   - Auto-like, follow, unfollow  
-   - Schedule posts  
-   - Secure login handling  
+---
 
-2. **Web Scraper**  
-   - Extract data from websites  
-   - Export to CSV / Excel  
-   - Works with multiple sites  
+## Services We Provide
+- Web Design & Development  
+- Software Solutions  
+- Automation Tools  
+- Video Editing  
+- SEO & Domain Authority Growth  
 
-3. **Bulk File Organizer**  
-   - Auto-rename files  
-   - Sort by type/date  
-   - Perfect for media libraries  
+---
 
-*(Add more tools as you build them)*  
+## Portfolio Highlights
 
-## 📸 Screenshots & Demos
+### Web Development
+- [Restaurant Website](https://github.com/your-username/restaurant-website) – Responsive design with booking system  
+- [Portfolio Template](https://github.com/your-username/portfolio-template) – One-page portfolio for professionals  
 
-* [YouTube Demo Playlist](#) (add link here)
-* Screenshots of tools in action (add images here)
+### Software Projects
+- [Inventory Management System](https://github.com/your-username/inventory-system) – Manage products, sales, and reports  
+- [Task Manager App](https://github.com/your-username/task-manager) – To-do app with cross-platform support  
 
-⭐ *“We rise together, so does your brand.”*
+### Automation Tools
+- [Instagram Bot](https://github.com/your-username/instagram-bot) – Automates likes, follows, and scheduling  
+- [Web Scraper](https://github.com/your-username/web-scraper) – Extracts data into CSV/Excel  
+- [Bulk File Organizer](https://github.com/your-username/file-organizer) – Sorts and renames files automatically  
+
+### Video Editing
+- [Showreel 2025](https://youtu.be/demo-link) – Highlights of edited projects  
+- [Before & After](https://youtu.be/demo-link) – Editing transformations  
+
+### SEO & DA Growth
+- [Case Study 1](https://drive.google.com/demo-link) – 250% website traffic growth in 3 months  
+- [Case Study 2](https://drive.google.com/demo-link) – Domain Authority improved from 15 → 40  
+
+---
+
+## Contact
+- 📧 Email: your-email@example.com  
+- 🔗 LinkedIn: [WIA Digital](https://linkedin.com/in/youragency)  
+- 🎯 Fiverr: [Your Fiverr Profile](https://fiverr.com/yourprofile)  
+- 🌍 Upwork: [Your Upwork Profile](https://upwork.com/yourprofile)  
