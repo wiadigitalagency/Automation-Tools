@@ -9,11 +9,10 @@ A collection of custom automation scripts and utilities built by **WIA Digital**
 - Easy-to-use scripts with minimal setup  
 
 ## 📂 Included Tools
-1. **Instagram Automation Bot**  
+1. [**Instagram Automation Bot**](https://github.com/your-username/instagram-bot)  
    - Auto-like, follow, unfollow  
    - Schedule posts  
    - Secure login handling  
-[Instagram Bot](https://github.com/your-username/instagram-bot)
 
 2. **Web Scraper**  
    - Extract data from websites  
