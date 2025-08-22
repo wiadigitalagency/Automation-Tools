@@ -13,6 +13,7 @@ A collection of custom automation scripts and utilities built by **WIA Digital**
    - Auto-like, follow, unfollow  
    - Schedule posts  
    - Secure login handling  
+[Instagram Bot](https://github.com/your-username/instagram-bot)
 
 2. **Web Scraper**  
    - Extract data from websites  
