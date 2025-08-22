@@ -23,5 +23,3 @@ A collection of custom automation scripts and utilities built by **WIA Digital**
    - Auto-rename files  
    - Sort by type/date  
    - Perfect for media libraries  
-   ```bash
-   git clone https://github.com/your-username/automation-tools.git
